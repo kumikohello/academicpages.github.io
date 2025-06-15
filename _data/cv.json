@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Kumiko Ueda",
+    "email": "kumiko@uchicago.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://kumikohello.github.io",
+    "summary": "Undergraduate Student @ Computational Affective and Social Neuroscience Lab",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Chicago, IL",
       "countryCode": "US",
       "region": ""
     },
@@ -25,28 +25,28 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "kumikohello",
+        "url": "https://github.com/kumikohello"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Chicago",
+      "area": "B.A. in Cognitive Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2023",
+      "endDate": "2027",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Chicago",
+      "area": "B.S. in Computational and Applied Mathematics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2023",
+      "endDate": "2027",
       "gpa": null,
       "courses": []
     },
@@ -60,9 +60,9 @@
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": ["Python", "C", "R", "MATLAB"],
+  "languages": ["English", "Japanese"],
+  "interests": ["Emotions", "Memory", "Machine Learning"],
   "references": [],
   "publications": [
     {
